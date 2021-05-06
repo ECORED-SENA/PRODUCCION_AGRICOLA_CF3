@@ -1,0 +1,23 @@
+2021-05-06
+- No estan disponibles ninguno de los videos del componente asignado
+
+- Los creditos parecen estar incompletos, se debe revisar y consultar si estan bien o mal
+
+- El tab en el xml tiene 3 secciones, en el docx solo hay dos
+	* Oscar Palito confirma que el ultimo tab del xd no va (2021-05-05 11:57 am)	
+
+- El numeral 1.6 esta duplicado
+	* Oscar Palito confirma error y dice que se debe quitar el segundo (2021-05-05 9:28: am)	
+
+- El primer listado del numeral 1.6 en el xd no concuerda con el docx
+	* Oscar Palito confirma error y que debe quedar como el docx
+
+- Toda la seccion 1.1 Definicion luce desproporcionada comparandola con la propuesta del XD
+	* Oscar Palito hace ajuste en el xd y se implementa (2021-05-06 4:30)
+
+- Los listados del numera 1.6 estan desajustados en el xd
+	* Oscar Palito confirma que se deben alinear los texto cercanos a las viñetas (2021-05-06 4:45)
+
+
+
+

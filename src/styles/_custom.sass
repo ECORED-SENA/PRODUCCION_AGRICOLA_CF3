@@ -1,0 +1,55 @@
+.banner-principal .tarjeta .align-self-end
+  align-self: center !important
+
+.bloque-texto-a
+  background-color: $color-primario
+  position: relative
+  &:before
+    content: ''
+    display: block
+    background-color: $color-sistema-f
+    position: absolute
+    top: 0
+    bottom: 0
+    left: 0
+    right: 35%
+
+.titulo-segundo-custom
+  margin-bottom: 20px
+  .h4
+    margin-bottom: 10px
+
+  &:after
+    content: ''
+    display: block
+    height: 3px
+    width: 140px
+    border-left: solid 50px $color-acento-contenido
+    background-color: $color-sistema-f
+  
+.tabs-c__tab--active
+  border-bottom: 4px solid $color-acento-botones !important
+
+.cajon--azul
+  background-color: $color-primario
+
+iframe
+  border-radius: 10px
+
+.acordion__accion__btn--a 
+  background-color: $color-acento-botones
+  color: $white
+  box-shadow: 0px 3px 5px 0px rgba(17, 30, 97, 0.3)
+
+.tarjeta--morada *
+    color: $color-sistema-texto
+
+.tabs-c__tab--active:before
+    width: 0
+    height: 0
+    border-left: 10px solid transparent
+    border-right: 10px solid transparent
+    border-top: 10px solid $color-acento-botones
+    left: 50%
+    top: calc(100% + 6px)
+  
