@@ -38,9 +38,8 @@
         figure
           img(src='@/assets/curso/tema2/img02.svg', alt='Visitas de asesoramiento')
       .col-md-7.mb-4.mb-md-0.d-flex.align-items-center              
-        div
-          .titulo-segundo
-            .h4 Objetivo        
+        div          
+          .h4 Objetivo        
           
           p.mb-4 A través de la inspección interna se analizan y evalúan los riesgos, con el fin de determinar las condiciones que permiten la implementación del Plan de Buenas Prácticas Agrícolas de acuerdo con los objetivos, procesos y actividades planteadas. 
             br
