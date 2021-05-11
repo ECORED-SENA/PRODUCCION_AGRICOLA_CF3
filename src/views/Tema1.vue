@@ -36,7 +36,7 @@
           img(src="@/assets/curso/tema1/img01.svg", alt="Definición")      
               
 
-    .h5 Un ejemplo de modelo de fases para el desarrollo del proceso puede ser:
+    .h5.mb-4 Un ejemplo de modelo de fases para el desarrollo del proceso puede ser:
     .row.mb-5
       .col-sm-1.mb-5.mb-sm-0        
       .col-sm-11.mb-5.mb-sm-0        

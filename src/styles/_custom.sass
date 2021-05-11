@@ -31,7 +31,7 @@
   border-bottom: 4px solid $color-acento-botones !important
 
 .cajon--azul
-  background-color: $color-primario
+  background-color: lighten($color-primario, 20%) !important
 
 iframe
   border-radius: 10px
@@ -41,9 +41,12 @@ iframe
   color: $white
   box-shadow: 0px 3px 5px 0px rgba(17, 30, 97, 0.3)
 
+.tarjeta--morada
+  background-color: lighten($color-primario, 20%) !important
+
 .tarjeta--morada *
     color: $color-sistema-texto
-
+    
 .tabs-c__tab--active:before
     width: 0
     height: 0

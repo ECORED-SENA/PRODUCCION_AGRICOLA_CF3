@@ -18,6 +18,7 @@
 - Los listados del numera 1.6 estan desajustados en el xd
 	* Oscar Palito confirma que se deben alinear los texto cercanos a las viñetas (2021-05-06 4:45)
 
+2021-05-10
 
-
+- Ojo a la unidad didactica, cambio de imagen y un gris de fondo
 

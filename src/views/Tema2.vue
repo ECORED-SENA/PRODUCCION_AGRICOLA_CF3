@@ -138,13 +138,13 @@
 
     .row
       .col-1
-      .col-md-5.col-lg.mb-5
+      .col-md-5.col-lg.mb-5.d-flex
         .tarjeta-Avatar
           img(src='@/assets/curso/tema2/img03.svg' alt='Diligenciamiento')
           .tarjeta.tarjeta--morada.p-4            
             p.mx-4 Diligenciamiento y envío del formulario para el organismo certificador en el que se consignan los datos de la unidad o productos a certificar.
 
-      .col-md-5.col-lg.mb-5
+      .col-md-5.col-lg.mb-5.d-flex
         .tarjeta-Avatar
           img(src='@/assets/curso/tema2/img04.svg' alt='Registro del productor')
           .tarjeta.tarjeta--morada.p-4            
