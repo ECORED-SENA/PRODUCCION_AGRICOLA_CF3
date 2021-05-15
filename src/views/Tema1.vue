@@ -188,7 +188,8 @@
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/PZJfJq_uDbw" title="Herramientas de capacitación para productores rurales" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        
 
     p.mb-4 Las herramientas de capacitación son ayudas o medios didácticos que el facilitador puede emplear para que la información sea transmitida de manera adecuada a los productores. Las herramientas de capacitación facilitan el aprendizaje, ya que permiten que el mensaje que se quiere transmitir estimule los sentidos y el aprendizaje sea significativo. En una sesión de capacitación es recomendable utilizar diversas herramientas que estimulen los diferentes sentidos, esta condición es especialmente útil porque:
 
