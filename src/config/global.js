@@ -129,15 +129,35 @@ export default {
       },
       {
         nombre: 'Tania Yaneth Ramírez Benítez',
-        cargo: 'Soporte organizacional',
+        cargo: 'Instructora',
         centro: 'CENTRO DE COMERCIO Y SERVICIOS',
-        regional: 'Regional Tolima',
+        regional: 'Regional Santander',
       },
       {
-        nombre: 'María Isabel Román Rueda',
+        nombre: 'Claudia Patricia Sánchez Peñaranda',
         cargo: 'Revisora de estilo',
-        centro: 'Centro Industrial Del Diseño Y La Manufactura',
-        regional: 'Regional Santander',
+        centro: 'Agrosena',
+      },
+      {
+        nombre: 'Fredy Orlando Ibáñez Morales ',
+        cargo: 'Instructor ',
+        centro: 'Agroambiental',
+      },
+      {
+        nombre: 'Yanet Bolaños Botina',
+        cargo: 'Instructora',
+        centro: 'Agroambiental',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Diseñadora instruccional',
+        centro: 'Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Julia Isabel Roberto',
+        cargo: 'Diseñadora y evaluadora instruccional',
+        centro: 'Centro para la Industria de la Comunicación Gráfica ',
+        regional: 'Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -148,6 +168,14 @@ export default {
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
+      },
+      {
+        nombre: 'María Natalia Maldonado Delgado',
+        cargo: 'Diseño Web & Producción Audiovisual',
+      },
+      {
+        nombre: 'Luis Gabriel Urueta Alvarez',
+        cargo: 'Desarrollo front-end',
       },
     ],
     gestoresRepositorio: [
