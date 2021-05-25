@@ -172,13 +172,14 @@ export default {
       {
         nombre: [
           'Camilo Andrés Villamizar Lizcano',
-          'Eulices Orduz Amézquita',
+          'Eulises Orduz Amézquita',
           'Gilberto Junior Rodríguez Rodríguez',
           'Lady Adriana Ariza Luque',
           'María Carolina Tamayo López',
           'Oscar Iván Uribe Ortiz',
           'Orcar Javier Latorre Burbano',
           'Victor Raúl Cárdenas Cáceres',
+          'Wildos Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
         ],
         cargo: 'Diseño web y Producción audiovisual',
