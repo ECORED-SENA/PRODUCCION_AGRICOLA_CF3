@@ -21,7 +21,7 @@
             p En este apartado se tratan los elementos que definen el plan de implementación, las visitas de asesoramiento, la formulación del plan de implementación, capacitación para productores rurales, los métodos y herramientas para realizar las capacitaciones en el sector rural.        
 
     #t_1_1.titulo-segundo
-      .h4 1.1. Definición
+      .h4 1.1 Definición
     
     .row.mb-5.justify-content-center      
       .col-md-7
@@ -46,18 +46,18 @@
               span 1
             p
               strong.pe-1 Fase de inicio:
-              | en la cual se socializa al productor el objetivo y condiciones del proyecto de implementación.2   
+              | en la cual se socializa al productor el objetivo y condiciones del proyecto de implementación.  
           li 
             .lista-ol--cuadro__vineta
               span 2
             p
               strong.pe-1 Fase de planeación: 
-              | en la cual se realiza el diagnóstico de la unidad productiva y se propone el plan de acción.4   
+              | en la cual se realiza el diagnóstico de la unidad productiva y se propone el plan de acción.  
           li 
             .lista-ol--cuadro__vineta
               span 3
             p
-              strong.pe-1 Implementación:
+              strong.pe-1 Fase de implementación:
               | en la cual se ponen en marcha las actividades propuestas en el plan de acción.
           li 
             .lista-ol--cuadro__vineta
@@ -73,11 +73,11 @@
               | en la cual se solicita la visita de auditoría para la certificación.
 
     #t_1_2.titulo-segundo
-      .h4 1.2. Visitas de asesoramiento
+      .h4 1.2 Visitas de asesoramiento
 
     p.mb-4 Las visitas de asesoramiento corresponden a todas las visitas que se propone realizar al predio desde el diagnóstico y durante el proceso de aplicación de las actividades propuestas en la implementación. Estas visitas se dividen en dos: la(s) visita(s) de diagnóstico y las visitas de implementación.  
 
-    TabsC.mb-5
+    TabsC.mb-5.tabs-c__tab-custom
       .py-3.py-md-4(titulo="Visita de diagnóstico")
         .row
           .col-md-4
@@ -99,7 +99,7 @@
           
 
     #t_1_3.titulo-segundo
-      .h4 1.3. Formulación del plan de acción
+      .h4 1.3 Formulación del plan de acción
 
     p.mb-4 En el plan de acción se detalla de manera puntual cada una de las actividades que el productor debe realizar a medida que avanza en el proceso de implementación. Se debe incluir los tiempos para su ejecución y las tareas específicas que el productor debe realizar en la unidad productiva.
 
@@ -158,7 +158,7 @@
         .col-1
 
     #t_1_4.titulo-segundo
-      .h4 1.4. Capacitación para productores rurales
+      .h4 1.4 Capacitación para productores rurales
 
     p.mb-4 La capacitación a los agricultores juega un rol importante en el proceso de diagnóstico e implementación de las buenas prácticas agrícolas en la unidad productiva, así como en su sostenibilidad en el tiempo. Existe una gran variedad de métodos y estrategias; sin embargo, ninguno es bueno en sí mismo, ni es bueno para todo, y aunque se reconoce por los profesionales del agro que los métodos que facilitan la participación, la observación, la práctica y la reflexión generan mejores resultados que aquellos que generan una actitud pasiva por parte del participante, es necesario tener en cuenta que no existe ningún escenario “ideal” que asegure resultados positivos en todos los casos.      
     .row.mb-5                
@@ -174,7 +174,7 @@
           | El capacitador es la figura que planifica las actividades de capacitación, coordina el proceso de enseñanza y aprendizaje, y evalúa los resultados obtenidos. Su papel es crucial, y de su adecuada participación depende el cumplimiento de las metas planeadas, sus actividades influyen directamente no solo en los resultados obtenidos, sino en el bienestar y desarrollo individual de los participantes
             
     #t_1_5.titulo-segundo
-      .h4 1.5. Métodos para realizar actividades de capacitación rural
+      .h4 1.5 Métodos para realizar actividades de capacitación rural
 
     p.mb-4 Existe una gran variedad de métodos y técnicas que buscan el aprendizaje significativo de las personas sujeto de conocimiento. Dentro de los métodos de capacitación se pueden mencionar: 
     
@@ -184,7 +184,7 @@
     p.mb-5 Cada uno de estos presenta características propias, ventajas y desventajas frente al tipo de población que se requiere impactar. Por tal motivo, es importante conocer la comunidad o el tipo de agricultor con el que se pretende trabajar, a fin de seleccionar el método que más cumpla con las expectativas de capacitación.
 
     #t_1_6.titulo-segundo
-      .h4 1.6. Herramientas de capacitación para productores rurales
+      .h4 1.6 Herramientas de capacitación para productores rurales
 
     figure.mb-4
       .video

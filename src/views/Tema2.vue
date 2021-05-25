@@ -22,7 +22,7 @@
     
 
     #t_2_1.titulo-segundo
-      .h4 2.1. Visita de inspección interna
+      .h4 2.1 Visita de inspección interna
     
     p.mb-4 Es aquella visita donde se evalúan y verifican los procesos y actividades que se han realizado respecto al plan de implementación de BPA en la producción o unidad productiva. Se busca evidenciar el cumplimiento de dichas actividades y lograr identificar las causas del incumplimiento, para así formular acciones y ser registradas en un formato de acciones correctivas y realizar el seguimiento.  
     
@@ -52,8 +52,7 @@
 
     figure.mb-4
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
-        
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/31dQqS3pe9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     p.mb-4 Para evaluar el cumplimiento de las condiciones exigidas a la producción o unidad productiva con respecto a los requisitos establecidos se utilizará una lista de chequeo según la normatividad vigente, en la cual se incluyen las siguientes áreas: 
 
     .row.mb-5

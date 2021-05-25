@@ -3,7 +3,7 @@ export default {
     componenteFormativo:
       'Plan de implementación                                ',
     descripcionCurso:
-      'El propósito de este componente es orientar la identificación de las actividades que se propone implementar en la unidad productiva respecto de la Buenas Prácticas Agrícolas (BPA). A su vez, presenta aspectos relevantes dentro del proceso de diagnóstico, planeación e implementación de las BPA.<br><br>Además, resalta la importancia de la capacitación a los productores rurales como una estrategia para la apropiación del conocimiento y el fortalecimiento del entorno comunitario.',
+      'El propósito de este componente es orientar la identificación de las actividades que se propone implementar en la unidad productiva respecto de las Buenas Prácticas Agrícolas (BPA). A su vez, presenta aspectos relevantes dentro del proceso de diagnóstico, planeación e implementación de las BPA.<br><br>Además, resalta la importancia de la capacitación a los productores rurales como una estrategia para la apropiación del conocimiento y el fortalecimiento del entorno comunitario.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/fondo-banner-principal.png'),
   },
@@ -129,14 +129,14 @@ export default {
       },
       {
         nombre: 'Tania Yaneth Ramírez Benítez',
-        cargo: 'Instructora',
-        centro: 'CENTRO DE COMERCIO Y SERVICIOS',
+        cargo: 'Soporte organizacional',
+        centro: 'Centro Industrial del Diseño y la Manufactura',
         regional: 'Regional Santander',
       },
       {
         nombre: 'Claudia Patricia Sánchez Peñaranda',
-        cargo: 'Revisora de estilo',
-        centro: 'Agrosena',
+        cargo: 'Instructora',
+        centro: 'AGROSENA / CAB',
       },
       {
         nombre: 'Fredy Orlando Ibáñez Morales ',
@@ -168,14 +168,6 @@ export default {
       {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
-      },
-      {
-        nombre: 'María Natalia Maldonado Delgado',
-        cargo: 'Diseño Web & Producción Audiovisual',
-      },
-      {
-        nombre: 'Luis Gabriel Urueta Alvarez',
-        cargo: 'Desarrollo front-end',
       },
     ],
     gestoresRepositorio: [
