@@ -169,12 +169,38 @@ export default {
         nombre: 'Leyson Fabian Castaño Perez',
         cargo: 'Soporte organizacional',
       },
+      {
+        nombre: [
+          'Camilo Andrés Villamizar Lizcano',
+          'Eulices Orduz Amézquita',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'Lady Adriana Ariza Luque',
+          'María Carolina Tamayo López',
+          'Oscar Iván Uribe Ortiz',
+          'Orcar Javier Latorre Burbano',
+          'Victor Raúl Cárdenas Cáceres',
+          'Zuleidy Maria Ruiz Torres',
+        ],
+        cargo: 'Diseño web y Producción audiovisual',
+      },
+      {
+        nombre: 'Edgar Mauricio Cortés García',
+        cargo: 'Desarrollo front-end',
+      },
+      {
+        nombre: 'Jenny Paola Montillo Gélvez',
+        cargo: 'Validación de diseño y contenido',
+      },
+      {
+        centro: 'Centro Industrial del Diseño y la Manufactura',
+        regional: 'Regional Santander',
+      },
     ],
     gestoresRepositorio: [
       {
         nombre: 'Milady Tatiana Villamil Castellanos',
-        cargo: 'Validación de recursos',
-        centro: 'CENTRO DE COMERCIO Y SERVICIOS',
+        cargo: 'Validación y vinculacion en plataforma LMS',
+        centro: 'Centro de Comercio y Servicios',
         regional: 'Regional Tolima',
       },
     ],
