@@ -179,7 +179,7 @@ export default {
           'Oscar Iván Uribe Ortiz',
           'Orcar Javier Latorre Burbano',
           'Victor Raúl Cárdenas Cáceres',
-          'Wildos Andrés Arenales Cáceres',
+          'Wilson Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
         ],
         cargo: 'Diseño web y Producción audiovisual',
