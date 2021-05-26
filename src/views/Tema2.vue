@@ -52,7 +52,7 @@
 
     figure.mb-4
       .video
-        iframe(width="1255" height="706" src="https://www.youtube.com/embed/31dQqS3pe9E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="1255" height="706" src="https://www.youtube.com/embed/bGIAk8dI4z0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
     p.mb-4 Para evaluar el cumplimiento de las condiciones exigidas a la producción o unidad productiva con respecto a los requisitos establecidos se utilizará una lista de chequeo según la normatividad vigente, en la cual se incluyen las siguientes áreas: 
 
     .row.mb-5
