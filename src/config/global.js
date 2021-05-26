@@ -1,7 +1,7 @@
 export default {
   global: {
     componenteFormativo:
-      'Plan de implementación                                ',
+      'Plan de implementación                                   ',
     descripcionCurso:
       'El propósito de este componente es orientar la identificación de las actividades que se propone implementar en la unidad productiva respecto de las Buenas Prácticas Agrícolas (BPA). A su vez, presenta aspectos relevantes dentro del proceso de diagnóstico, planeación e implementación de las BPA.<br><br>Además, resalta la importancia de la capacitación a los productores rurales como una estrategia para la apropiación del conocimiento y el fortalecimiento del entorno comunitario.',
     imagenBannerPrincipal: require('@/assets/curso/banner-princiapal.svg'),
