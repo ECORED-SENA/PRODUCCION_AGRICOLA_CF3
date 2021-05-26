@@ -171,13 +171,15 @@ export default {
       },
       {
         nombre: [
-          'Camilo Andrés Villamizar Lizcano',
+          'Arnulfo Beltrán',
+          'Carlos Eduardo Garavito Parada',
           'Eulises Orduz Amézquita',
           'Gilberto Junior Rodríguez Rodríguez',
+          'José Jaime Luis Tang Pinzón',
           'Lady Adriana Ariza Luque',
+          'Lina Marcela Pérez Manchego',
           'María Carolina Tamayo López',
           'Oscar Iván Uribe Ortiz',
-          'Orcar Javier Latorre Burbano',
           'Victor Raúl Cárdenas Cáceres',
           'Wilson Andrés Arenales Cáceres',
           'Zuleidy Maria Ruiz Torres',
