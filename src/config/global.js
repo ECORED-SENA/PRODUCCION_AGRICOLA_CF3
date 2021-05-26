@@ -311,16 +311,14 @@ export default {
     {
       texto:
         'SENA – ASOHOFRUCOL. (2009). Guía para el técnico implementador de Buenas Prácticas Agrícolas. Convenio especial de cooperación Servicio Nacional de Aprendizaje SENA – Asociación Hortofrutícola de Colombia ASOHOFRUCOL No. 00305 de 2007.',
-      tipo: 'Cartilla',
-      link:
-        'https://www.academia.edu/5559447/1_Gu%C3%ADa_t%C3%A9cnico_implementador_BPA?auto=download',
+      tipo: 'Documento',
+      descarga: '/downloads/1_Guia_tecnico_implementador_BPA.pdf',
     },
     {
       texto:
         'Corporación Colombia Internacional. (Ed.). (2009). Manual temático del facilitador en Buenas prácticas agrícolas – Anexos. Yerimpresos.',
       tipo: 'Documento',
-      link:
-        'https://www.ica.gov.co/areas/agricola/servicios/inocuidad-agricola/capacitacion/anexosmanual.aspx',
+      descarga: '/downloads/anexosManual.pdf',
     },
   ],
 }
